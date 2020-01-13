@@ -1,5 +1,6 @@
 public class SloganClient {
     public static void main(String args[]){
+
         Slogan ace = new Slogan("ace is the place");
         Slogan empire = new Slogan("eight-hundred, five eight eight");
         Slogan obama = new Slogan("hope");
